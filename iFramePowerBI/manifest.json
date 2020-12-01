@@ -1,0 +1,15 @@
+{
+  "name": "iFramePowerBI",
+  "2D": true,
+  "3D": false,
+  "platform": "HTML",
+  "version": "2.8",
+  "wabVersion": "2.8",
+  "author": "GIS Rock Team",
+  "description": "This is the custom widget for visualize iframe code",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+   "hasConfig": true
+  }
+}
